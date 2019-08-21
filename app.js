@@ -23,6 +23,7 @@ async function getResponse(req) {
     return new Promise((resolve, reject) => {
         req.on('error', reject);
         req.on('timeout', () => {
+            reject(new CrawlError("request timeout"));
             req.destroy();
         });
         req.on('response', (res) => {
