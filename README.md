@@ -2,7 +2,7 @@
 
 A simple syzoj problem tags crawler - fix the problems which have their tags missing!
 
-### How to use
+## How to use
 
 Remove all `-example` in the filenames. Then modify them according to your needs.
 
