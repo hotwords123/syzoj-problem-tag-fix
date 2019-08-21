@@ -1,0 +1,11 @@
+# Here contains the aliases for tag names.
+# Format: <tag name of source> = <tag name of dest>
+# The begining and ending spaces in tag names will be ignored.
+# Blank lines and lines starting with '#' will be ignored as well.
+# Regular expressions are supported. Add '^' and '$' if necessary.
+# Regular expressions are not case sensitive by default.
+
+System Test=系统测试
+System Testing=系统测试
+spj=Special Judge
+/^[A-Z]{2}OI$/=省选

@@ -1,0 +1,23 @@
+{
+  "name": "syzoj-problem-tag-fix",
+  "version": "1.0.0",
+  "description": "A simple syzoj problem tags crawler - fix the problems which have their tags missing!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "syzoj",
+    "crawler"
+  ],
+  "author": "hotwords123",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hotwords123/syzoj-problem-tag-fix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hotwords123/syzoj-problem-tag-fix/issues"
+  },
+  "homepage": "https://github.com/hotwords123/syzoj-problem-tag-fix#readme"
+}

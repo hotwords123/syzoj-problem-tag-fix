@@ -1,0 +1,15 @@
+{
+    "source_site": {
+        "host": "https://loj.ac",
+        "headers": {}
+    },
+    "dest_site": {
+        "host": "http://127.0.0.1:5283",
+        "headers": {}
+    },
+    "timeout": 2000,
+    "id_ranges": [
+        [1, 100],
+        [1000, 1100]
+    ]
+}

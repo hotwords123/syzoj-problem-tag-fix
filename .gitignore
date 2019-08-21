@@ -1,0 +1,14 @@
+node_modules
+
+config.json
+dest-tags.json
+tag-alias.txt
+
+cache-source.json
+cache-search.json
+cache-dest.json
+
+add-tags.sql
+tags-missing.txt
+
+logs-*.txt
